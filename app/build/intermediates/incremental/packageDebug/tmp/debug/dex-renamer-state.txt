@@ -1,0 +1,4 @@
+#Tue Oct 15 07:55:40 BDT 2019
+base.0=D\:\\TicTacToe\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
